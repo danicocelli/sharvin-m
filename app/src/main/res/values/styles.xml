@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Sharvin" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#1164F4</item>
+        <item name="android:statusBarColor">#07152C</item>
+        <item name="android:navigationBarColor">#07152C</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#07152C</item>
+        <item name="android:windowSplashScreenBackground">#07152C</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+</resources>
